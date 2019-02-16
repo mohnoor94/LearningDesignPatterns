@@ -1,4 +1,4 @@
-package _01_builder._04_code_builder;
+package _01_builder._04_excercise_code_builder;
 
 // Builder Coding Exercise
 
