@@ -7,15 +7,8 @@ package _12_chain_of_responsibility;
 
 // =====
 
-// Command Query Separation (CQS):
+// Summary:
 
-// Command: Asking for an action or change
-// - e.g., please set attack value to 2
-
-// Query: Asking for information
-// - e.g., please give me your attack value
-
-// CQS: Having separate means of sending commands and queries to e.g., direct field access.
-
-// =====
-
+// Chain of Responsibility can be implemented as a chain of references or a centralized construct
+// Enlist objects in the chain, possibly controlling their order.
+// Object removal from chain (e.g., in AutoClosable's close() method) in EventBroker example.
