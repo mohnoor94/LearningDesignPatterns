@@ -1,4 +1,4 @@
-package _09_façade;
+package _09_facade;
 
 // Facade (Façade): Exposing several components through a single interface
 

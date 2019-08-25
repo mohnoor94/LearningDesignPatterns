@@ -1,4 +1,4 @@
-package _09_façade._01_console_example;
+package _09_facade._01_console_example;
 
 public class Demo {
 
