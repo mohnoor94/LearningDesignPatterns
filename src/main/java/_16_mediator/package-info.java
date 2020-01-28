@@ -24,3 +24,11 @@ package _16_mediator;
 
 // =====
 
+// Summary:
+
+// - Create the mediator and have each object in the system refer to it, e.g., in a field (Constructor Injection?).
+// - Mediator is typically a singleton - only one instance is needed.
+// - Mediator engages bidirectional communication with its connected component.
+// - Mediator has functions the components can call.
+// - Components have functions the mediator can call.
+// - Event processing (e.g., Rx) libraries make communication easier to implement.
