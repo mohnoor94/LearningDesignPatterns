@@ -7,3 +7,4 @@ package _23_visitor._04_asyclic_visitor;
 // and tee visitor), so we can easily ignore certain elements from the hierarchy.
 // We can disable any visitors temporarily, if we want.
 // It is worth's to note that this way needed a lot of interfaces to be implemented - compared to the other ways.
+// We also back to the idea of type-checking and casting which is not so great - performance wise.
